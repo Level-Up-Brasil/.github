@@ -1,10 +1,10 @@
 # Qual é o propósito deste Pull Request? #
 
-_Coloque aqui o que e como isso pode ajudar o projeto. Não esqueça de usar um label._
+<!-- Coloque aqui o que e como isso pode ajudar o projeto. Não esqueça de usar um label. -->
 
 ## Link do Jira, Issue no GitHub ou Link do chamado ##
 
-_Adicione aqui todos os links de onde originou essa tarefa._
+<!-- Adicione aqui todos os links de onde originou essa tarefa -->
 
 ## Checklist ##
 
@@ -15,4 +15,4 @@ _Adicione aqui todos os links de onde originou essa tarefa._
 
 ## Observações e/ou Impedimentos ##
 
-_Opcional._
+<!-- Opcional -->
