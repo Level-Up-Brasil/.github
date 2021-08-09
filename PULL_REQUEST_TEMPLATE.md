@@ -1,34 +1,18 @@
-#### Tipo da Mudança ####
+# Qual é o propósito deste Pull Request? #
 
-- [ ] Feature
-- [ ] Bugfix
-- [ ] Update Docs
-- [ ] Outros:
+_Coloque aqui o que e como isso pode ajudar o projeto. Não esqueça de usar um label._
 
-#### Link do Jira, ou Issue no Github ####
+## Link do Jira, Issue no GitHub ou Link do chamado ##
 
-<!--- Obrigatório -->
+_Adicione aqui todos os links de onde originou essa tarefa._
 
-#### Como está? (Comportamento atual, bug ou feature antiga) ####
+## Checklist ##
 
-<!--- Obrigatório -->
+- [ ] Revisei os códigos e estão seguindo os padrões do [StyleGuide](https://github.com/Level-Up-Brasil/api.payhype.v3/wiki/StyleGuide).
+- [ ] Compilei toda a solução e não há erros de build nem novos warnings.
+- [ ] Testei as alterações localmente e funcionaram.
+- [ ] Executei todos os teste unitários e todos passaram.
 
-#### Como vai ficar? (Comportamento esperado, correção ou nova funcionalidade) ####
+## Observações e/ou Impedimentos ##
 
-<!--- Obrigatório -->
-
-#### Screenshots: ####
-
-<!--- Opcional | Adicione screenshots ou gif mostrando a mudança, mostre o antes e o depois -->
-
-#### Observações e Impedimentos: ####
-
-<!--- Opcional -->
-
-#### Como essa PR faz você se sentir? [:link:](http://giphy.com/) ####
-
-<!-- Opcional | Busque no http://giphy.com/ o gif que demostra como está se sentido com essa PR -->
-
-![](Adicione o link do .gif aqui - use o modo "advanced" no giphy)
-
-<!-- Exemplo: ![](https://media.giphy.com/media/SEhVb3H1uZIWI/giphy.gif) -->
+_Opcional._
