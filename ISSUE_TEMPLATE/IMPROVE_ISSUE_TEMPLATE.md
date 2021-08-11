@@ -1,5 +1,5 @@
 ---
-name: 🐜 Bug report
+name: 🐜 Improve report
 about: Se algo não estiver funcionando como deveria 🔧
 ---
 
