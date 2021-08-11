@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Reportar um bug
-title: 'Bug: Adicione um título sobre o problema'
+title: 'Adicione um título sobre o problema'
 labels: bug
 assignees: ''
 
