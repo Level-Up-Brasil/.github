@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Uma sugestão de melhoria para o projeto
-title: 'Feat: Adicione um título sobre a melhoria'
+title: 'Adicione um título sobre a melhoria'
 labels: feature
 assignees: ''
 
