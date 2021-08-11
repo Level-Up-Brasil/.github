@@ -1,3 +1,8 @@
+---
+name: 🐜 Bug report
+about: Se algo não estiver funcionando como deveria 🔧
+---
+
 ## O problema
 
 <!-- Obrigatório. Descreva de forma detalhada o problema e por que você considera um bug. -->
