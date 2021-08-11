@@ -8,7 +8,7 @@
 
 ## Checklist ##
 
-- [ ] Revisei os códigos e estão seguindo os padrões do [StyleGuide](https://github.com/Level-Up-Brasil/api.payhype.v3/wiki/StyleGuide).
+- [ ] Revisei os códigos e estão seguindo os padrões do [StyleGuide](https://github.com/Level-Up-Brasil/styleguides) de acordo com a stack do projeto.
 - [ ] Compilei toda a solução e não há erros de build nem novos warnings.
 - [ ] Testei as alterações localmente e funcionaram.
 - [ ] Executei todos os teste unitários e todos passaram.
