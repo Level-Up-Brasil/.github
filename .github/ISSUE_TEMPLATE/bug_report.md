@@ -4,12 +4,16 @@ about: Reportar um bug
 title: 'Adicione um título sobre o problema'
 labels: bug
 assignees: ''
-
+body:
+  - type: textarea
+    id: the-problem
+    attributes:
+      label: O problema
+      description: Descreva de forma detalhada o problema e por que você considera um bug.
+      placeholder: Detalhe do problema..
+    validations:
+      required: true
 ---
-
-### O problema
-
-<!-- Obrigatório. Descreva de forma detalhada o problema e por que você considera um bug. -->
 
 ### Link do Jira, Issue no GitHub ou Link do chamado
 
