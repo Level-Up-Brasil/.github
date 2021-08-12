@@ -45,6 +45,6 @@ body:
     attributes:
       label: Checklists
       description: Adicione cada tarefa que precisa ser feita.
-      value: '- [ ] Nome da tarefa'
+      placeholder: '- [ ] Nome da tarefa'
     validations:
       required: false
