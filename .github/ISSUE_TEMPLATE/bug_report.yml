@@ -1,6 +1,6 @@
-name: 🐜 Bug Report
+name: '🐜 Bug Report'
 description: Reportar um bug
-title: "Adicione um título sobre o bug"
+title: 'Adicione um título sobre o bug'
 labels: [bug]
 body:
   - type: textarea
