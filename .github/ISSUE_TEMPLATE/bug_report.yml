@@ -1,0 +1,50 @@
+name: 🐜 Bug Report
+description: Reportar um bug
+title: "Adicione um título sobre o bug"
+labels: [bug]
+body:
+  - type: textarea
+    id: the-problem
+    attributes:
+      label: O problema
+      description: Descreva de forma detalhada o problema e por que você considera um bug
+      placeholder: Conte detalhes sobre o bug aqui!
+    validations:
+      required: true
+  - type: textarea
+    id: link-issue
+    attributes:
+      label: Link do Jira, Issue no GitHub ou Link do chamado
+      description: Adicione aqui todos os links de onde originou essa tarefa
+      placeholder: '[Chamado #1](#chamado-1)'
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Comportamento esperado
+      description: Descreva o que deveria estar acontecendo.
+    validations:
+      required: true
+  - type: textarea
+    id: actual-behaviour
+    attributes:
+      label: Comportamento atual
+      description: Descreva o que está acontecendo.
+    validations:
+      required: true
+  - type: textarea
+    id: possible-solution
+    attributes:
+      label: Possível correção
+      description: Descreva aqui o que pode ser feito para resolver o problema.
+    validations:
+      required: false
+  - type: textarea
+    id: checklists
+    attributes:
+      label: Checklists
+      description: Adicione cada tarefa que precisa ser feita.
+      value: - [ ] Nome da tarefa
+    validations:
+      required: false
