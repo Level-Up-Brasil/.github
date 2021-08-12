@@ -6,7 +6,7 @@ body:
   - type: textarea
     id: the-problem
     attributes:
-      label: O problema
+      label: Detalhes
       description: Descreva de forma detalhada o problema e por que você considera um bug
       placeholder: Conte detalhes sobre o bug aqui!
     validations:
