@@ -1,0 +1,14 @@
+name: Bug report
+about: Reportar um bug
+title: 'Adicione um título sobre o problema'
+labels: bug
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: O problema
+      description: Descreva de forma detalhada o problema e por que você considera um bug.
+      placeholder: Detalhe do problema..
+    validations:
+      required: true
+      
