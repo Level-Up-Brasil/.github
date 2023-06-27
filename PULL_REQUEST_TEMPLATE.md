@@ -2,7 +2,7 @@
 
 <!-- Coloque aqui o que e como isso pode ajudar o projeto. Não esqueça de usar um label. -->
 
-## Link do Jira, Issue no GitHub ou Link do chamado ##
+## Link do Shortcut, Issue no GitHub ou Link do chamado ##
 
 <!-- Adicione aqui todos os links de onde originou essa tarefa -->
 
