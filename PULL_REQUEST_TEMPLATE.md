@@ -2,7 +2,7 @@
 
 <!-- Coloque aqui o que e como isso pode ajudar o projeto. Não esqueça de usar um label. -->
 
-## Link do Shortcut, Issue no GitHub ou Link do chamado ##
+## Link do Monday, Issue no GitHub ou Link do chamado ##
 
 <!-- Adicione aqui todos os links de onde originou essa tarefa -->
 
